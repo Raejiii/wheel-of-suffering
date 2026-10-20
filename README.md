@@ -19,4 +19,4 @@ npm install
 npm run dev
 ```
 
-**Connect:** [GitHub](https://github.com/Raejiii) · [LinkedIn](https://www.linkedin.com/in/rahul-joy-suneel-1b90ba300/) · [Portfolio](https://web-portfolio-liart-iota.vercel.app)
+**Connect:** [GitHub](https://github.com/Raejiii) · [LinkedIn](https://www.linkedin.com/in/rahul-joy-suneel-1b90ba300/) · [Portfolio](https://rahuljs.vercel.app)

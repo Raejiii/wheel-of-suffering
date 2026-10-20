@@ -149,7 +149,7 @@ export default function App() {
             </main>
 
             <footer className="footer">
-                Made by <a href="https://web-portfolio-liart-iota.vercel.app" target="_blank" rel="noreferrer">Rahul JS (Rae)</a>
+                Made by <a href="https://rahuljs.vercel.app" target="_blank" rel="noreferrer">Rahul JS (Rae)</a>
                 {' '}for home workouts. Stretch first, and stop if anything hurts.
             </footer>
         </>
